@@ -1,0 +1,4 @@
+--ui bdd
+--require source-map-support/register
+lib/spec/**/*_spec.js
+
